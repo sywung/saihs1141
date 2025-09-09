@@ -10,7 +10,7 @@ Windows 有2種方法，
 
 2. 利用 Google 搜尋 vscode 後，找出像下面的連結。
 
-     ![CleanShot 2025-09-09 at 11.15.22@2x](assets/CleanShot 2025-09-09 at 11.15.22@2x.png)
+     ![](assets/vs1.png)
 
 3. 進入網站後，選擇 "Download for Windows" 即可下載。(注意 Windows 防毒問題)
 
@@ -28,7 +28,7 @@ Windows 有2種方法，
 
 4. **選取附加工作 (重要！)**： 這個步驟會影響你未來使用 VS Code 的便利性，請務必根據你的需求勾選。(建議全選，如圖)
    
-     ![CleanShot 2025-09-09 at 11.21.02@2x](assets/CleanShot 2025-09-09 at 11.21.02@2x.png)
+     ![](assets/vs2.png)
    - **在桌面建立捷徑**：勾選後會在桌面建立一個啟動 VS Code 的捷徑。
    
    - **將 "Open with Code" 操作新增至 Windows 檔案總管的檔案右鍵功能表**：強烈建議勾選！這讓你可以對任何檔案點擊右鍵，直接用 VS Code 開啟。
