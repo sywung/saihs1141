@@ -60,7 +60,7 @@ void loop() {
 -   UNO → `diagram.json.uno` + `wokwi.toml.uno`
 -   ESP32 → `diagram.json.esp32` + `wokwi.toml.esp32`
 
-切換板子時，只要執行以下指令：
+切換板子時，只要在 vscode Terminal下執行以下指令(請注意檔案開啟的位置，黃色框)：
 
 ### UNO
 
@@ -75,6 +75,10 @@ copy wokwi.toml.uno wokwi.toml
 copy diagram.json.esp32 diagram.json
 copy wokwi.toml.esp32 wokwi.toml
 ```
+
+或是根據需點選 uno.bat 或 esp32.bat 
+
+![](assets/wokwi7.png)
 
 ------------------------------------------------------------------------
 
