@@ -45,7 +45,7 @@ for(i=0; i<4; i++) {           // 使用 for 迴圈，從索引 0 跑到 3（共
 ``` c
 const int pwm[] = {3, 5, 6, 9};          // 定義四個 PWM 輸出腳位。
 int brightness[3][4] = { {1,2,3,4},{5,6,7,8},{6,7,8,9} };          // 假設定義了一個 3x4 的二維陣列 brightness 儲存多種亮度變化資料。 
-for (int i = 0; i < 3; i++) {            // 外層迴圈：控制亮度變化的階段（例如 4 個階段）。
+for (int i = 0; i < 3; i++) {            // 外層迴圈：控制亮度變化的階段（例如 3 個階段）。
   for (int j = 0; j < 4; j++) {          // 內層迴圈：控制每個腳位。 
     analogWrite(pwm[j], brightness[i][j]); // 將brightness陣列中特定階段i、特定腳位j的亮度值輸出到 pwm[j] 腳位。
   }
