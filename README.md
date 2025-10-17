@@ -11,3 +11,5 @@
 ## C 語言參考資料
 
 [Arduino 變數與常數](https://github.com/sywung/saihs1141/blob/main/arduino/variables.md)
+
+[Arduino 陣列](https://github.com/sywung/saihs1141/blob/main/arduino/array.md)
