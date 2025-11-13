@@ -17,3 +17,5 @@
 [Arduino 迴圈控制](https://github.com/sywung/saihs1141/blob/main/arduino/array.md)
 
 [Arduino 陣列](https://github.com/sywung/saihs1141/blob/main/arduino/array.md)
+
+[Arduino 串列](https://github.com/sywung/saihs1141/blob/main/arduino/serial.md)
