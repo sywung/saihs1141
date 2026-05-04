@@ -26,7 +26,7 @@
 
 1.  打開 [Wokwi 網站](https://wokwi.com) 畫電路圖。
 
-2.  完成後，切換到上方的 **diagram.toml** 分頁。
+2.  完成後，切換到上方的 **diagram.json** 分頁。
 
 3.  把裡面的文字全選、複製。
 
