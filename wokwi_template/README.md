@@ -24,15 +24,17 @@
 
 ## 3. 電路設計
 
-1.  打開 [Wokwi 網站](https://wokwi.com) 畫電路圖。
+1.  先下載[VS code Wokwi 樣本模板](https://github.com/sywung/saihs1141/releases/tag/0.0.1)，並全部解壓縮。
 
-2.  完成後，切換到上方的 **diagram.json** 分頁。
+2.  打開 [Wokwi 網站](https://wokwi.com) 畫電路圖。
 
-3.  把裡面的文字全選、複製。
+3.  完成後，切換到上方的 **diagram.json** 分頁。
+
+4.  把裡面的文字全選、複製。
 
     ![](assets/wokwi4.png)
 
-4.  貼到專案目錄中的 **diagram.json.xxx** 檔案（對應不同板子）。
+5.  貼到專案目錄中的 **diagram.json.xxx** 檔案（對應不同板子）。
 
 ------------------------------------------------------------------------
 
