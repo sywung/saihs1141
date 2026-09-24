@@ -12,6 +12,8 @@
 
 [Arduino 變數與常數](https://github.com/sywung/saihs1141/blob/main/arduino/variables.md)
 
+[Arduino 運算子](https://github.com/sywung/saihs1141/blob/main/arduino/operators.md)
+
 [Arduino 條件控制](https://github.com/sywung/saihs1141/blob/main/arduino/conditions.md)
 
 [Arduino 迴圈控制](https://github.com/sywung/saihs1141/blob/main/arduino/array.md)
